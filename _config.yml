@@ -16,7 +16,7 @@
 title: Todd Lynam's Blog
 email: tlynam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog for Ruby on Rails development and miscellaneous tidbits
+  Blog for programming and tidbits
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tlynam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tlynam
